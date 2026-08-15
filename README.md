@@ -27,8 +27,10 @@ It is an imbalanced dataset with almost 75% of the samples as negative samples, 
 # GitHub Repository link
 https://github.com/aniketmb-bits/2025ac05788_assignment2/
 
-# Models used
+# Streamlit app link
+https://2025ac05788assignment2-2eutnexkh5fzliq7apphkc6.streamlit.app/
 
+# Models used
 
 | ML Model Name | Accuracy | AUC | Precision | Recall | F1 | MCC |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
