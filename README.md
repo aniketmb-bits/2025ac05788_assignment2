@@ -25,6 +25,7 @@ It can be used to practice machine learning problem like classification. The tot
 It is an imbalanced dataset with almost 75% of the samples as negative samples, while only 25% representing postive.
 
 # GitHub Repository link
+https://github.com/aniketmb-bits/2025ac05788_assignment2/
 
 # Models used
 
